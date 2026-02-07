@@ -7,8 +7,8 @@ function LogCheck {
     param([Parameter(Mandatory = $true)][string]$GamePath)
 
     $urlToCopy = $null
-    # $gachaLogPath = "D:\Wuthering Waves\Wuthering Waves Game\Client\Saved\Logs\Client.log"
-    $gachaLogPath = Join-Path -Path $GamePath -ChildPath "Client\Saved\Logs\Client.log"
+    $gachaLogPath = "D:\Wuthering Waves\Wuthering Waves Game\Client\Saved\Logs\Client.log"
+    # $gachaLogPath = Join-Path -Path $GamePath -ChildPath "Client\Saved\Logs\Client.log"
 
     if (Test-Path $gachaLogPath) {
         $gachaUrlEntry = Get-Content $gachaLogPath -Encoding UTF8 -ErrorAction SilentlyContinue | 
