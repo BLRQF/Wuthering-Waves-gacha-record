@@ -75,7 +75,7 @@ def merge_new_records(existing, new):
             merged.append(rec)
         else:
             break
-    return merged + existing if merged else []
+    return merged + existing if merged else existing
 
 def update_record_file(all_records):
     """写入所有抽卡池记录到文件"""
@@ -91,10 +91,14 @@ def update_record_file(all_records):
     for pool_name, records in all_records.items():
         prev = existing.get(pool_name, empty_record())
         merged = merge_new_records(prev.get("data", []), records)
+        if len(merged) > len(prev.get("data", [])):
+            date = now
+        else:
+            date = prev.get("date", "")
         out_data[pool_name] = {
-            "date": now if merged else prev.get("date", ""),
+            "date": date,
             "number": len(merged),
-            "data": merged if merged else prev.get("data", [])
+            "data": merged
         }
 
     with out_path.open("w", encoding="utf-8") as f:
