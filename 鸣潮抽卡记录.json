@@ -1,6 +1,6 @@
 {
     "角色活动唤取": {
-        "date": "2026-02-07 22:17:32",
+        "date": "2026-02-11 19:52:17",
         "number": 403,
         "data": [
             {
@@ -3633,7 +3633,7 @@
         ]
     },
     "武器活动唤取": {
-        "date": "2026-02-07 22:17:32",
+        "date": "2026-02-11 19:52:17",
         "number": 131,
         "data": [
             {
@@ -4818,7 +4818,7 @@
         ]
     },
     "角色常驻唤取": {
-        "date": "2026-02-07 22:17:32",
+        "date": "2026-02-11 19:52:17",
         "number": 1,
         "data": [
             {
@@ -4833,7 +4833,7 @@
         ]
     },
     "武器常驻唤取": {
-        "date": "2026-02-07 22:17:32",
+        "date": "2026-02-11 19:52:17",
         "number": 151,
         "data": [
             {
@@ -6198,7 +6198,7 @@
         ]
     },
     "新手唤取": {
-        "date": "2026-02-07 22:17:32",
+        "date": "2026-02-11 19:52:17",
         "number": 40,
         "data": [
             {
@@ -6564,9 +6564,99 @@
         ]
     },
     "新手自选唤取": {
-        "date": "2026-02-07 22:17:32",
-        "number": 20,
+        "date": "2026-02-11 19:52:17",
+        "number": 30,
         "data": [
+            {
+                "cardPoolType": "6",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21030064,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "飞逝",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21050064,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "异度",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21030024,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "华彩乐段",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
+            {
+                "cardPoolType": "6",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-02-11 16:09:46"
+            },
             {
                 "cardPoolType": "6",
                 "resourceId": 21050064,
@@ -6755,7 +6845,7 @@
         "data": []
     },
     "角色新旅唤取": {
-        "date": "2026-02-07 22:17:32",
+        "date": "2026-02-11 19:52:17",
         "number": 121,
         "data": [
             {
