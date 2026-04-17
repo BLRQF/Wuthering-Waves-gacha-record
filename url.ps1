@@ -24,6 +24,8 @@ function LogCheck {
 
     if ($urlToCopy) {
         Write-Host "✅ 找到抽卡链接：$urlToCopy`n" -ForegroundColor Green
+        Set-Clipboard -Value $urlToCopy
+        Write-Host "📋 链接已复制到剪贴板！`n" -ForegroundColor Green
         return $urlToCopy
     }
     else {
