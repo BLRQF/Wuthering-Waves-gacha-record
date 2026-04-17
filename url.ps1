@@ -1,7 +1,10 @@
-$urlFound = $false
+$urlFound = $null
 $checkedDirectories = @()
 
 Write-Output "自动查找鸣潮抽卡链接..."
+
+$pythonEnvPath = ".venv\Scripts\python.exe"
+$pythonScriptPath = "main.py"
 
 function LogCheck {
     param([Parameter(Mandatory = $true)][string]$GamePath)
@@ -20,15 +23,13 @@ function LogCheck {
     }
 
     if ($urlToCopy) {
-        Set-Clipboard -Value $urlToCopy
-        Write-Host "✅ 找到抽卡链接：$urlToCopy" -ForegroundColor Green
-        Write-Host "📋 链接已复制到剪贴板！" -ForegroundColor Green
-        return $true
+        Write-Host "✅ 找到抽卡链接：$urlToCopy`n" -ForegroundColor Green
+        return $urlToCopy
     }
     else {
-        Write-Host "❌ 在路径 '$GamePath' 未找到抽卡链接。" -ForegroundColor Yellow
+        Write-Host "❌ 在路径 '$GamePath' 未找到抽卡链接。`n" -ForegroundColor Yellow
     }
-    return $false
+    return $null
 }
 
 
@@ -52,5 +53,13 @@ if (!$urlFound) {
     }
 }
 
+if ($urlFound) {
+    Write-Host "🔄 正在启动Python程序抓取抽卡记录..." -ForegroundColor Cyan
+    & $pythonEnvPath $pythonScriptPath $urlFound
+    Write-Host "`n🎉 任务执行完成！" -ForegroundColor Green
+}
+else {
+    Write-Host "❌ 未找到任何抽卡链接，请先在游戏内打开一次抽卡记录页面！" -ForegroundColor Red
+}
 
 Read-Host "`n操作完成，按回车退出"

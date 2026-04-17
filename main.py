@@ -1,3 +1,4 @@
+import sys
 import json
 from pathlib import Path
 from datetime import datetime
@@ -107,7 +108,12 @@ def update_record_file(all_records):
 def main():
     with requests.Session() as session:
         session.headers.update(HEADERS)
-        gacha_url = input("请输入抽卡记录链接: ").strip()
+
+        if len(sys.argv) < 2:
+            print("错误：未接收到抽卡链接，请检查PowerShell配置")
+            return
+        gacha_url = sys.argv[1].strip()
+
         if not gacha_url:
             print("链接不能为空，请重新运行程序并输入有效链接。")
             return
