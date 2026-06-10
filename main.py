@@ -7,7 +7,7 @@ import requests
 
 API_URL = "https://gmserver-api.aki-game2.com/gacha/record/query"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
     "Content-Type": "application/json",
     "Referer": "https://aki-gm-resources.aki-game.com/",
     "Origin": "https://aki-gm-resources.aki-game.com"
@@ -22,7 +22,9 @@ CARD_POOL_MAP = {
     6: "新手自选唤取",
     7: "新手自选唤取（感恩定向唤取）",
     8: "角色新旅唤取",
-    9: "武器新旅唤取"
+    9: "武器新旅唤取",
+    10: "角色联动唤取",
+    11: "武器联动唤取"
 }
 
 def parse_time_str(time_str):
