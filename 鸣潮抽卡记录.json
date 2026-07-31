@@ -1,8 +1,1196 @@
 {
     "角色活动唤取": {
-        "date": "2026-06-18 23:05:29",
-        "number": 852,
+        "date": "2026-07-30 14:16:51",
+        "number": 984,
         "data": [
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040024,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "呼啸重音",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-30 13:13:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1110,
+                "qualityLevel": 5,
+                "resourceType": "角色",
+                "name": "穗穗",
+                "count": 1,
+                "time": "2026-07-30 13:11:45"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-30 13:11:37"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-30 13:11:30"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-30 13:11:22"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-26 11:42:29"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-07-26 11:42:22"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-26 11:42:14"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-26 11:42:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-26 11:41:58"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1602,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "丹瑾",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-21 15:09:12"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-21 13:30:07"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040064,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "骇行",
+                "count": 1,
+                "time": "2026-07-20 15:15:59"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-20 15:15:52"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-20 15:15:44"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-20 15:15:36"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-20 15:15:29"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-20 15:15:21"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-20 15:15:14"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-20 15:15:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-20 15:14:54"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-18 10:19:25"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1202,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "炽霞",
+                "count": 1,
+                "time": "2026-07-17 13:29:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-17 13:29:40"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-17 13:29:33"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-17 13:29:26"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-16 18:29:44"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-16 18:29:38"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-16 18:29:31"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-16 18:29:25"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-16 18:29:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040044,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "袍泽之固",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-16 18:29:03"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1403,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "秋水",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-16 14:09:43"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-13 13:46:22"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1602,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "丹瑾",
+                "count": 1,
+                "time": "2026-07-12 19:45:21"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-07-12 19:44:56"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-12 19:44:48"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-11 13:41:08"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 18:30:14"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-10 18:04:30"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 18:04:22"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-10 18:04:15"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 18:04:08"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1610,
+                "qualityLevel": 5,
+                "resourceType": "角色",
+                "name": "秧秧·玄翎",
+                "count": 1,
+                "time": "2026-07-10 16:48:24"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 16:48:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-10 16:48:10"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-10 16:48:01"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1403,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "秋水",
+                "count": 1,
+                "time": "2026-07-10 10:35:20"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-10 10:35:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 10:35:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-10 10:34:58"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 10:34:51"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1102,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "散华",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1403,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "秋水",
+                "count": 1,
+                "time": "2026-07-10 10:34:41"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1203,
+                "qualityLevel": 5,
+                "resourceType": "角色",
+                "name": "安可",
+                "count": 1,
+                "time": "2026-07-10 10:34:17"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020024,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "行进序曲",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1202,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "炽霞",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 10:34:06"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-06-25 13:01:07"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-06-24 12:38:02"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-06-24 12:37:55"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-06-22 14:59:23"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 1103,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "白芷",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
+            {
+                "cardPoolType": "角色精准调谐",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-06-22 14:59:13"
+            },
             {
                 "cardPoolType": "角色精准调谐",
                 "resourceId": 1204,
@@ -7674,9 +8862,126 @@
         ]
     },
     "武器活动唤取": {
-        "date": "2026-06-13 13:10:30",
-        "number": 253,
+        "date": "2026-07-30 14:16:51",
+        "number": 266,
         "data": [
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-30 13:12:44"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-30 13:12:36"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-30 13:12:28"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21020096,
+                "qualityLevel": 5,
+                "resourceType": "武器",
+                "name": "天之苍苍",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21030043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者佩枪·洞察",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
+            {
+                "cardPoolType": "武器精准调谐",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-10 10:42:55"
+            },
             {
                 "cardPoolType": "武器精准调谐",
                 "resourceId": 21050086,
@@ -9957,9 +11262,288 @@
         ]
     },
     "角色常驻唤取": {
-        "date": "2026-06-18 23:05:29",
-        "number": 45,
+        "date": "2026-07-30 14:16:51",
+        "number": 76,
         "data": [
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-30 10:21:30"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-27 11:15:00"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-27 11:14:52"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-21 15:08:25"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-21 14:22:54"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-16 14:09:22"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-16 14:09:16"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-15 10:41:49"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-14 16:46:45"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 1503,
+                "qualityLevel": 5,
+                "resourceType": "角色",
+                "name": "维里奈",
+                "count": 1,
+                "time": "2026-07-13 16:49:01"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-13 16:15:42"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-13 13:26:55"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-11 13:26:52"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 20:39:30"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21030044,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "无眠烈火",
+                "count": 1,
+                "time": "2026-07-10 20:39:24"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 20:34:47"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能长刃·测壹",
+                "count": 1,
+                "time": "2026-07-10 20:34:41"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者长刃·辟路",
+                "count": 1,
+                "time": "2026-07-10 20:34:34"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者迅刀·旅迹",
+                "count": 1,
+                "time": "2026-07-10 20:34:26"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-10 20:34:19"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21030084,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "悖论喷流",
+                "count": 1,
+                "time": "2026-07-10 20:34:13"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21040013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜臂铠·夜芒",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21050023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能音感仪·测五",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
+            {
+                "cardPoolType": "角色调谐（常驻池）",
+                "resourceId": 21010024,
+                "qualityLevel": 4,
+                "resourceType": "武器",
+                "name": "异响空灵",
+                "count": 1,
+                "time": "2026-07-10 20:34:04"
+            },
             {
                 "cardPoolType": "角色调谐（常驻池）",
                 "resourceId": 21030013,
@@ -14152,6 +15736,107 @@
         ]
     },
     "武器联动唤取": {
+        "date": "",
+        "number": 0,
+        "data": []
+    },
+    "角色忆旅唤取": {
+        "date": "2026-07-10 20:47:31",
+        "number": 10,
+        "data": [
+            {
+                "cardPoolType": "12",
+                "resourceId": 1202,
+                "qualityLevel": 4,
+                "resourceType": "角色",
+                "name": "炽霞",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21020013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜迅刀·黑闪",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21020023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能迅刀·测贰",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21050013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜矩阵·暝光",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21040023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能臂铠·测肆",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21030013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜佩枪·暗星",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21030023,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "源能佩枪·测叁",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21050043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者矩阵·探幽",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21040043,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "远行者臂铠·破障",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            },
+            {
+                "cardPoolType": "12",
+                "resourceId": 21010013,
+                "qualityLevel": 3,
+                "resourceType": "武器",
+                "name": "暗夜长刃·玄明",
+                "count": 1,
+                "time": "2026-07-10 18:29:15"
+            }
+        ]
+    },
+    "武器忆旅唤取": {
         "date": "",
         "number": 0,
         "data": []
